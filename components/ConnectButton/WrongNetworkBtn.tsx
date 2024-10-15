@@ -8,7 +8,7 @@ interface Props {
 export const WrongNetworkBtn = ({ onClick }: Props) => {
   return (
     <Button colorScheme={"red"} onClick={onClick}>
-      Wrong network
+      Tidak terhubung
     </Button>
   );
 };
