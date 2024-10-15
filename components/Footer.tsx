@@ -28,7 +28,7 @@ export default function Footer() {
       <Container as={Stack} maxW={"8xl"} py={10}>
         <Center flexDir={"column"}>
           <Heading size="md">
-            Built by:{" "}
+            Di bangun oleh:{" "}
             <Link
               color={"twitter.300"}
               href="https://twitter.com/nv20f"
