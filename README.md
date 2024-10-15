@@ -8,6 +8,7 @@ Using:
 - Rainbowkit
 
 ### Files to Modify
+
 - Update name in package.json
 - Update Metadata in `app/layout.tsx`
 - `cp .example.env.local .env.local` and update values
