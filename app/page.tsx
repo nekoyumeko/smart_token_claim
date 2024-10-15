@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <MasterLayout hideConnectWalletBtn={false}>
       <Center flexDir={"column"} mt={"3rem"}>
-        <Button onClick={handleClaim}>Claim</Button>
+        <Button onClick={handleClaim}>Klaim</Button>
       </Center>
     </MasterLayout>
   );
