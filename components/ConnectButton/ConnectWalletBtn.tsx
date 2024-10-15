@@ -15,7 +15,7 @@ export const ConnectWalletBtn = ({ onClick }: Props) => {
       onClick={onClick}
       rounded={"xl"}
     >
-      Connect Wallet
+      Hubungkam Dompet
     </Button>
   );
 };
