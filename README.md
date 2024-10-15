@@ -1,7 +1,6 @@
 # Web3 Starter Nextjs
 
 Using:
-
 - Next.js
 - Chakra UI
 - Wagmi
