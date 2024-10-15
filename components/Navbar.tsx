@@ -29,7 +29,7 @@ export default function Navbar({
             router.push("/");
           }}
         >
-         Klaim token $Mapel 
+         Klaim token $Smart 
         </Heading>
         <Center>
           <Heading
@@ -38,7 +38,7 @@ export default function Navbar({
             fontStyle={"italic"}
             fontWeight={"light"}
           >
-            Hanya dapat diklaim oleh Akun Mapel!
+            Hanya dapat diklaim oleh Akun Smart!
           </Heading>
         </Center>
       </Center>
